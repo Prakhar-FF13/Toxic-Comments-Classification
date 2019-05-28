@@ -10,7 +10,7 @@
 
 ## 2. Machine Learning Problem Formulation:
 
-###2.1 Data: 
+### 2.1 Data: 
 
 - Source: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/data
 - We have one single csv file for training and one cvs file to test.
